@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "merryyou.security.oauth2.storeType",
+      "type": "java.lang.String",
+      "description": "Description for merryyou.security.oauth2.storeType."
+  }
+] }

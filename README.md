@@ -26,7 +26,8 @@ security-demo |案例模块，依赖lemon-security-browser和lemon-security-app�
 - @PathVariable映射URL片段到Java方法的参数
 - @PageableDefault指定默认分页参数
 - @JsonView按照指定方式序列化Java对象
-
+ 
+ 
 
 ## 常见的数据校验注解
 

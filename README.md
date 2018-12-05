@@ -32,7 +32,7 @@ security-demo |案例模块，依赖lemon-security-browser和lemon-security-app�
 ## 常见的数据校验注解
 
 
-注解 | 说明
+注解 | 说明 
 ---|---
 @NotNull|值不能为空
 @Null|值必须为空
